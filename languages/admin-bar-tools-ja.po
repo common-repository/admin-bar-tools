@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: admin-bar-tools\n"
+"POT-Creation-Date: 2023-03-21 18:29+0900\n"
+"PO-Revision-Date: 2023-03-21 18:29+0900\n"
+"Last-Translator: Ken-chan\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: src\n"
+"X-Poedit-SearchPathExcluded-2: build\n"
+"X-Poedit-SearchPathExcluded-3: cmd\n"
+"X-Poedit-SearchPathExcluded-4: img\n"
+"X-Poedit-SearchPathExcluded-5: languages\n"
+"X-Poedit-SearchPathExcluded-6: node_modules\n"
+
+#: class/class-abt-activate.php:77
+msgid "PageSpeed Insights"
+msgstr "PageSpeed Insights"
+
+#: class/class-abt-activate.php:83
+msgid "Lighthouse"
+msgstr "Lighthouse"
+
+#: class/class-abt-activate.php:89
+msgid "Google Search Console"
+msgstr "Googleサーチコンソール"
+
+#: class/class-abt-activate.php:95
+msgid "Google Cache"
+msgstr "Googleキャッシュ"
+
+#: class/class-abt-activate.php:101
+msgid "Google Index"
+msgstr "Googleインデックス"
+
+#: class/class-abt-activate.php:107
+msgid "Bing Index"
+msgstr "Bingインデックス"
+
+#: class/class-abt-activate.php:113
+msgid "Twitter Search"
+msgstr "Twitter検索"
+
+#: class/class-abt-activate.php:119
+msgid "Facebook Search"
+msgstr "Facebook検索"
+
+#: class/class-abt-activate.php:125
+msgid "Hatena Bookmark"
+msgstr "はてなブックマーク"
+
+#: class/class-abt-add-admin-bar.php:43
+msgid "Admin Bar Tools"
+msgstr "Admin Bar Tools"
+
+#: class/class-abt-add-admin-bar.php:149
+msgid "Official Site"
+msgstr "公式サイト"
+
+#: class/class-abt-add-admin-bar.php:150
+msgid "Manual"
+msgstr "マニュアル"
+
+#: class/class-abt-add-admin-bar.php:151
+msgid "Forum"
+msgstr "フォーラム"
+
+#: class/class-abt-admin-page.php:50
+msgid "Settings"
+msgstr "設定"
+
+#: class/class-abt-admin-page.php:142
+msgid "Required key does not exist"
+msgstr "必要なキーが存在しません"
+
+#: class/class-abt-phpver-judge.php:84
+#, php-format
+msgid "[Plugin error] %s has been stopped because the PHP version is old."
+msgstr "[プラグインエラー] PHPのバージョンが古いため、%sは停止されました。"
+
+#: class/class-abt-phpver-judge.php:89
+#, php-format
+msgid "%1$s requires at least PHP %2$s or later."
+msgstr "%1$sには、少なくともPHP%2$s以降が必要です。"
+
+#: class/class-abt-phpver-judge.php:93
+msgid "Please upgrade PHP."
+msgstr "PHPをアップグレードしてください。"
+
+#: class/class-abt-phpver-judge.php:94
+msgid "Current PHP version:"
+msgstr "現在のPHPバージョン："
+
+#~ msgid "[Plugin error] Admin Bar Tools has been stopped because the PHP version is old."
+#~ msgstr "[プラグインエラー] PHPのバージョンが古いため、Admin Bar Toolsは停止されました。"
+
+#~ msgid "Admin Bar Tools requires at least PHP 7.3.0 or later."
+#~ msgstr "Admin Bar Toolsには、少なくともPHP7.3.0以降が必要です。"
+
+#~ msgid "You have no sufficient permissions to access this page."
+#~ msgstr "このページにアクセスするための十分な権限がありません。"
+
+#~ msgid "Your update has been successfully completed!!"
+#~ msgstr "設定が完了しました！"
+
+#~ msgid "Please reload to reflect the settings. (F5 key for Windows, ⌘ key + R key for Mac)."
+#~ msgstr "設定を反映させるために一度画面を更新してください。（WindowsはF5キー、Macは⌘キー+Rキー）"
+
+#~ msgid "An error has occurred. Please try again."
+#~ msgstr "エラーが発生しました。もう一度やり直してください。"
+
+#~ msgid "Admin Bar Tools Settings"
+#~ msgstr "Admin Bar Tools設定"
+
+#~ msgid "Please select the items you want to display."
+#~ msgstr "表示したい項目を選択してください。"
+
+#~ msgid "Choose how you want to register with Google SearchConsole."
+#~ msgstr "Google SearchConsoleの登録方法を選択してください。"
+
+#~ msgid "I don't use it."
+#~ msgstr "未使用"
+
+#~ msgid "Domain"
+#~ msgstr "ドメイン"
+
+#~ msgid "URL Prefix"
+#~ msgstr "URLプレフィックス"
+
+#~ msgid "Language (Country)"
+#~ msgstr "言語（国）"
+
+#~ msgid "Save Changes"
+#~ msgstr "変更を保存"
+
+#~ msgid "Contributors"
+#~ msgstr "製作者"
+
+#~ msgid "Tags"
+#~ msgstr "タグ"
+
+#~ msgid "Tested up to"
+#~ msgstr "テストしたWordPressのバージョン"
+
+#~ msgid "Requires PHP"
+#~ msgstr "必要なPHPのバージョン"
+
+#~ msgid "Stable tag"
+#~ msgstr "バージョン"
+
+#~ msgid "License"
+#~ msgstr "ライセンス"
+
+#~ msgid "License URI"
+#~ msgstr "ライセンスURI"
+
+#~ msgid "Donate link"
+#~ msgstr "寄付用リンク"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "Installation"
+#~ msgstr "インストール方法"
+
+#~ msgid "Frequently asked question"
+#~ msgstr "よくある質問"
+
+#~ msgid "Changelog"
+#~ msgstr "更新履歴"
+
+#~ msgid "Screenshots"
+#~ msgstr "スクリーンショット"
+
+#~ msgid "Upgrade notice"
+#~ msgstr "更新概要"
+
+#~ msgid "Arbitrary section"
+#~ msgstr "その他"
+
+#~ msgid "What is Admin Bar Tools?"
+#~ msgstr "Admin Bar Toolsとは？"
+
+#~ msgid "This plugin allows you to add useful links to the admin bar."
+#~ msgstr "このプラグインを使用すると、管理バーに便利なリンクを追加できます。"
+
+#~ msgid "In order to check PageSpeed ​​Insights, Twitter search, and Google index, you had to open each site and copy and paste the URL to confirm it until now."
+#~ msgstr "今まではPageSpeed Insights、Twitter検索、Googleインデックス等確認するには各サイトを開き、URLをコピーして貼り付けて確認する必要がありました。"
+
+#~ msgid "But Admin Bar Tools allows you to do it in just one click."
+#~ msgstr "しかしAdmin Bar Toolsを使用すると、ワンクリックでそれを行うことができます。"
+
+#~ msgid "This is very innovative."
+#~ msgstr "これは非常に革新的です。"
+
+#~ msgid "You can access each tool from individual pages, articles, and management screens, which eliminates the troublesome operations."
+#~ msgstr "個別ページ、記事、管理画面から各ツールにアクセスできるため、面倒な操作は不要です。"
+
+#~ msgid "We're glad that you can concentrate on writing."
+#~ msgstr "あなたが執筆に専念できることを嬉しく思います。"
+
+#~ msgid "A plugin that allows you to add useful links to the admin bar."
+#~ msgstr "管理バーに便利なリンクを追加できるプラグインです。"
+
+#~ msgid "https://twitter.com/braveryk7"
+#~ msgstr "https://twitter.com/braveryk7"
+
+#~ msgid "https://www.braveryk7.com"
+#~ msgstr "https://www.braveryk7.com"
+
+#~ msgid "Ken-chan"
+#~ msgstr "けんちゃん"
+
+#~ msgid "English(United States)"
+#~ msgstr "英語（アメリカ合衆国）"
+
+#~ msgid "Japanese"
+#~ msgstr "日本語"
+
+#~ msgid "Update is successful!!"
+#~ msgstr "設定が完了しました！"
+
+#~ msgid "Locale/Language"
+#~ msgstr "国設定"
+
+#~ msgid "Admin Bar Tools Setting"
+#~ msgstr "Admin Bar Tools設定"
